@@ -1,10 +1,10 @@
 # WebScraping IMDb: Analysis on Ratings
 
-Project Overview
+# Project Overview
 
 This project involves web scraping IMDb ratings to analyze trends in movie ratings and audience preferences. Using Selenium, we extracted and cleaned over 10,000 IMDb data entries, applying regex-based data cleaning to remove 99% of duplicates, ensuring a high-quality dataset for analysis.
 
-Key Features
+# Key Features
 
 Automated Data Extraction:
 
